@@ -1754,6 +1754,8 @@
 
 /* Main */
 
+// background image to change
+
 	#main {
 		> header {
 			@include padding(12em, 0);
@@ -1879,6 +1881,7 @@
 	}
 
 /* Landing */
+// another image to change
 
 	body.landing {
 		#page-wrapper {
